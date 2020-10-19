@@ -157,7 +157,7 @@ procgen-ppo:
 
             # == LSTM ==
             # Whether to wrap the model with a LSTM
-            # use_lstm: false
+            use_lstm: true
             # Max seq len for training the LSTM, defaults to 20
             # max_seq_len: 20
             # Size of the LSTM cell
