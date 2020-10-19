@@ -1,4 +1,4 @@
-ray[rllib]==0.8.6
+ray[rllib]==1.0.0
 procgen==0.10.4
 pytorch==1.6.0
 torchvision==0.7.0
